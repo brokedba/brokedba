@@ -8,9 +8,13 @@
 - ☁️ All my learning bits can be found at www.brokedba.com along my [terraform for dumies series](http://www.brokedba.com/2021/12/my-terraform-labs-2021-cloud-recap.html)   
 <br>  
  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brokedba&icons=true&include_all_commits=true&theme=default&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brokedba&hide_progress=true&&hide=PLSQL,plpgSQL,Python&layout=compact&&card_width=320" />
+</a>
 
-![brokedba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brokedba&icons=true&include_all_commits=true&theme=default&show_icons=true&rank_icon=github)
- 
  <p align=center>
 ⚡ Thanks for the visit! ☁️🤙💪
  </p>
@@ -31,4 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brokedba&hide_progress=true)
+![brokedba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brokedba&icons=true&include_all_commits=true&theme=default&show_icons=true&rank_icon=github)
+ 
 -->
