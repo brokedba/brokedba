@@ -1,3 +1,5 @@
+[![podcast](https://github.com/brokedba/brokedba/assets/29458929/dcec469a-7e67-466e-ba92-d8ed5512ab1c)](https://podcasters.spotify.com/pod/show/techbeats)
+
 <p align="justified"> <img src= "https://github.com/vimal-verma/vimal-verma/blob/v2/img/hello.gif" width="150" height="50" /> </p>
     <h3 align="justified"> 👋Hey there, I'm <a href="https://brokedba">Kosseila</a> - aka Brokedba aka CloudDude </h3>
 
@@ -14,8 +16,6 @@
  <p align=center>
 ⚡ Thanks for the visit! ☁️🤙💪
  </p>
-
-
 <!--
 **brokedba/brokedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
