@@ -12,7 +12,6 @@
  <p align=center>
 ⚡ Thanks for the visit! ☁️🤙💪
  </p>
-<br> 
 
 ## 💬
 [<img src="https://icon.vimalverma.in/img?tool=dev&acol=gold" width="30px">](https://dev.to/cloud_dud)
