@@ -12,10 +12,13 @@
  <p align=center>
 ⚡ Thanks for the visit! ☁️🤙💪
  </p>
-<br>  
+<br> 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brokedba&icons=true&include_all_commits=true&theme=default&show_icons=true&rank_icon=github" />
 </a>
+</details>	
 <!--
 **brokedba/brokedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
