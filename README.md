@@ -17,8 +17,6 @@
  <p align=center>
 ⚡ Thanks for the visit! ☁️🤙💪
  </p>
-[<img src="https://github.com/brokedba/brokedba/assets/29458929/dcec469a-7e67-466e-ba92-d8ed5512ab1c">](https://podcasters.spotify.com/pod/show/techbeats)
- 
 <!--
 **brokedba/brokedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
