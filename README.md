@@ -1,6 +1,6 @@
 
 <p align="justified"> <img src= "https://github.com/vimal-verma/vimal-verma/blob/v2/img/hello.gif" width="150" height="50" /> </p>
-    <h3 align="justified"> 👋Hey there, I'm <a href="https://brokedba">Kosseila</a> - aka Brokedba aka CloudDude </h3>
+    <h3 align="justified"> 👋 <a href="https://github.com/brokedba">Kosseila</a> - aka Brokedba aka CloudDude </h3>
 
 
 - 🎓 This gem is all about labs, and things I discovered while working on DevOps and Cloud deployments throughout the years.
