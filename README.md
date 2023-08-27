@@ -8,15 +8,14 @@
 - 👨🏼‍🚀 Hopefully something I wrote could be handy to one of you.
 - ☁️ All my learning bits can be found at www.brokedba.com along my [terraform for dumies series](http://www.brokedba.com/2021/12/my-terraform-labs-2021-cloud-recap.html)
 # Subscribe to my tech Podcast 🎙
-[<img src="https://github.com/brokedba/brokedba/assets/29458929/dcec469a-7e67-466e-ba92-d8ed5512ab1c">](https://podcasters.spotify.com/pod/show/techbeats) 
+[![PODCAST](https://github-production-user-asset-6210df.s3.amazonaws.com/29458929/263514581-dcec469a-7e67-466e-ba92-d8ed5512ab1c.png)](https://podcasters.spotify.com/pod/show/techbeats) 
+ <p align=center>
+⚡ Thanks for the visit! ☁️🤙💪
+ </p>
 <br>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brokedba&icons=true&include_all_commits=true&theme=default&show_icons=true&rank_icon=github" />
 </a>
-
- <p align=center>
-⚡ Thanks for the visit! ☁️🤙💪
- </p>
 <!--
 **brokedba/brokedba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
