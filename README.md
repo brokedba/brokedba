@@ -13,6 +13,12 @@
 ⚡ Thanks for the visit! ☁️🤙💪
  </p>
 <br> 
+
+## 💬
+[<img src="https://icon.vimalverma.in/img?tool=dev&acol=gold" width="30px">](https://dev.to/cloud_dud)
+[<img src="https://icon.vimalverma.in/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/brokedba)
+[<img src="https://icon.vimalverma.in/img?tool=play-button&acol=gold" width="30px">](https://www.youtube.com/Cloud_Dude)
+<br>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
