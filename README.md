@@ -1,4 +1,3 @@
-
 <p align="justified"> <img src= "https://github.com/vimal-verma/vimal-verma/blob/v2/img/hello.gif" width="150" height="50" /> </p>
     <h3 align="justified"> 👋 <a href="https://github.com/brokedba">Kosseila</a> - aka CloudDude </h3>
 
