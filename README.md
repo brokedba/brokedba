@@ -2,7 +2,7 @@
     <h3 align="justified"> 👋 <a href="https://github.com/brokedba">Kosseila</a> - aka CloudDude </h3>
 
 
-- 🎓 This gem is all about labs, and things I discovered while working on DevOps and Cloud deployments throughout the years.
+- 🎓 This gem is all about labs, and things I discovered while working on DevOps, AI and Cloud deployments throughout the years.
 - 👨🏼‍🚀 Lots of repos around different projects and random information. Take a look around!
 - ☁️ All my learning bits can be found at www.cloudthrill.ca/blog along with my [terraform for dumies series](http://www.brokedba.com/2021/12/my-terraform-labs-2021-cloud-recap.html)
 # Subscribe to my tech Podcast 🎙
