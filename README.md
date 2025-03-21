@@ -10,11 +10,11 @@
 ## **📺Talks & videos**
 | Talk | Event | link| 
 | ----------- | :---------: |:------------: |
-| Compliance as Code using Checkov in Terraform  | Hashitalks Secure 2024 | [Link](https://youtu.be/7UMCpGq15yE?feature=shared)  |
-| K8sGPT: Give Your k8s Troubleshooting Skills a Superpower | Conf42 DevOps 2025 | [Link](https://youtu.be/vP6k7k-UAk8?feature=shared)  |
-|Unleash Keyless Cloud Deployments with Workload Identity Authentication using OIDC |DevOps Stage 2024|[Link](https://youtu.be/-KqW5HF6TFs?feature=shared&t=11)|
-|Bringing AI Inference Closer: Deploy Local AI Endpoints in Oracle OKE for your app |Oracle ACE Virtual Conference 2025|[Link](https://apexadb.oracle.com/ords/r/tech/catalog/session-landing-page?p2_event_id=63792836386355741938176589144607332643&debug=LEVEL7&session=600990726418287)|
-| LLM Quantization: All You Need to Know! | Coming Soon | [Link](https://cloudthrill.ca/llm-quantization-all-you-need-to-know)|
+| Compliance as Code using Checkov in Terraform  | Hashitalks Secure 2024 | [Link](https://youtu.be/7UMCpGq15yE?feature=shared) 📺 |
+| K8sGPT: Give Your k8s Troubleshooting Skills a Superpower | Conf42 DevOps 2025 | [Link](https://youtu.be/vP6k7k-UAk8?feature=shared) 📺 |
+|Unleash Keyless Cloud Deployments with Workload Identity Authentication using OIDC |DevOps Stage 2024|[Link](https://youtu.be/-KqW5HF6TFs?feature=shared&t=11)📺|
+|Bringing AI Inference Closer: Deploy Local AI Endpoints in Oracle OKE for your app |Oracle ACE Virtual Conference 2025|[Link](https://apexadb.oracle.com/ords/r/tech/catalog/session-landing-page?p2_event_id=63792836386355741938176589144607332643&debug=LEVEL7&session=600990726418287)📺|
+| LLM Quantization: All You Need to Know! | Coming Soon | [Link](https://cloudthrill.ca/llm-quantization-all-you-need-to-know)✍🏻|
 
 ## **Udemy Discount Coupons**
 ## 🧑‍💻 🧑‍💻 Practice Exam Courses 🧑‍💻 🧑‍💻
