@@ -20,14 +20,15 @@
 ## 🧑‍💻 🧑‍💻 Practice Exam Courses 🧑‍💻 🧑‍💻
 | Course Link | Coupon Code |
 | ----------- | :-----------: |
-| [AWS Certified Solutions Architect Associate exam practice tests](https://www.udemy.com/course/practice-exam-aws-solutions-architect-associate) | CLOUDDAPRIL25 |
+| [AWS Certified Solutions Architect Associate exam practice tests](https://www.udemy.com/course/practice-exam-aws-solutions-architect-associate) | CLDMAY25 |
 | [Az 104 Microsoft azure administrator exam practice tests] | Comming Soon |
 
 ## 📝 📝 **FREE Certification Exam Notes** 📝 📝
 
 | Certification Notes | Notes Source | 
 | ----------- | :-----------: | 
-| [Kubernetes and Cloud Native Associate (KCNA) Notes]( https://buff.ly/48ptBuy ) | Evernote |
+| [**Certified Kubernetes Administrator (CKA) cheatsheet**](https://cloudthrill.ca/how-i-passed-my-cka) | BlogPost |
+| [**Kubernetes and Cloud Native Associate (KCNA) Notes**]( https://buff.ly/48ptBuy ) | Evernote |
 | [𝐀𝐖𝐒 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 Notes]( https://buff.ly/48ptBuy ) | Evernote |
 | [𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 Notes](https://buff.ly/40p72Ey) | Evernote |
 | [𝐀𝐳𝐮𝐫𝐞 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐀𝐳-𝟗𝟎𝟎 Notes](https://buff.ly/3UsgSl6) | Evernote |
