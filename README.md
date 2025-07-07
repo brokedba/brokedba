@@ -22,7 +22,7 @@
 ## 🧑‍💻 🧑‍💻 Practice Exam Courses 🧑‍💻 🧑‍💻
 | Course Link | Coupon Code |
 | ----------- | :-----------: |
-| [AWS Certified Solutions Architect Associate exam practice tests](https://www.udemy.com/course/practice-exam-aws-solutions-architect-associate) | CLDMAY25 |
+| [AWS Certified Solutions Architect Associate exam practice tests](https://www.udemy.com/course/practice-exam-aws-solutions-architect-associate) | CLDJULY25 |
 | [Az 104 Microsoft azure administrator exam practice tests] | Comming Soon |
 
 ## 📝 📝 **FREE Certification Exam Notes** 📝 📝
