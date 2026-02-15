@@ -29,6 +29,7 @@
 
 | Certification Notes | Notes Source | 
 | ----------- | :-----------: | 
+| [**GitHub Actions certification (cheat-sheet)**](https://cloudthrill.ca/how-i-passed-my-githubactions-exam) | BlogPost |
 | [**Certified Kubernetes Administrator (CKA) cheatsheet**](https://cloudthrill.ca/how-i-passed-my-cka) | BlogPost |
 | [**Kubernetes and Cloud Native Associate (KCNA) Notes**]( https://buff.ly/48ptBuy ) | Evernote |
 | [𝐀𝐖𝐒 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 Notes]( https://buff.ly/48ptBuy ) | Evernote |
