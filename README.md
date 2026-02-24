@@ -29,6 +29,7 @@
 
 | Certification Notes | Notes Source | 
 | ----------- | :-----------: | 
+| [**Kubernetes and Cloud Native Security Associate (KCSA) cheat-sheet**](https://clouddudelabs.gitbook.io/k8-labs/training/cksa/clouddude-notes) | BlogPost |
 | [**GitHub Actions certification (cheat-sheet)**](https://cloudthrill.ca/how-i-passed-my-githubactions-exam) | BlogPost |
 | [**Certified Kubernetes Administrator (CKA) cheatsheet**](https://cloudthrill.ca/how-i-passed-my-cka) | BlogPost |
 | [**Kubernetes and Cloud Native Associate (KCNA) Notes**]( https://buff.ly/48ptBuy ) | Evernote |
