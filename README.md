@@ -5,7 +5,7 @@
 
 - 🎓 This gem is all about all things I discovered while working on DevOps, AI and Cloud deployments throughout the years.
 - 👨🏼‍🚀 Lots of repos around different projects. Take a look around!
-- ☁️ All my learning bits can be found at www.cloudthrill.ca/blog along with my [terraform for dumies series](http://www.brokedba.com/2021/12/my-terraform-labs-2021-cloud-recap.html)
+- ☁️ All my learning bits can be found at [www.cloudthrill.ca/blog](https://www.cloudthrill.ca/blog) along with my [vLLM learning series](https://cloudthrill.ca/?s=vllm) and [terraform for dumies series](http://www.brokedba.com/2021/12/my-terraform-labs-2021-cloud-recap.html)
 
 ## **📺Talks & videos**
 | Talk | Event | link| 
