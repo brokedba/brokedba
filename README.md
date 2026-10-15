@@ -10,12 +10,13 @@
 ## **📺Talks & videos**
 | Talk | Event | link| 
 | ----------- | :---------: |:------------: |
-| **Compliance as Code using Checkov in Terraform**  | Hashitalks Secure 2024 | [Link](https://youtu.be/7UMCpGq15yE?feature=shared) 📺 |
+| **GPU Sharing: "Your GPU Is Lying to You"** | TechBeats Live Stream | [Link](https://cloudthrill.ca/gpu-sharing)✍🏻 <br> [Link](https://www.youtube.com/watch?v=tJiNIGmj7J8)📺|
+| **LLM Quantization: All You Need to Know!** | TechBeats Live Stream | [Link](https://cloudthrill.ca/llm-quantization-all-you-need-to-know)✍🏻 <br> [Link](https://youtube.com/live/XTE0oS7b6fM?feature=share)📺|
+|**Bringing AI Inference Closer: Deploy Local AI Endpoints in Oracle OKE for your app** |Oracle ACE Virtual Conference 2025|[Link](https://youtu.be/8046h68BqSc)📺|
+| **Explore OCI DevOps: Pipeline your Terraform Stack from GitHub to OCI** | All India Oracle Users Group (AIOUG) | [Link](https://www.aioug.org/events/explore-oci-devops-pipeline-your-terraform-stack-from-github-to-oci)📺|
 | **K8sGPT: Give Your k8s Troubleshooting Skills a Superpower** | Conf42 DevOps 2025 | [Link](https://youtu.be/vP6k7k-UAk8?feature=shared) 📺 |
 |**Unleash Keyless Cloud Deployments from github actions with OIDC** |DevOps Stage 2024|[Link](https://youtu.be/-KqW5HF6TFs?feature=shared&t=11)📺|
-|**Bringing AI Inference Closer: Deploy Local AI Endpoints in Oracle OKE for your app** |Oracle ACE Virtual Conference 2025|[Link](https://youtu.be/8046h68BqSc)📺|
-| **LLM Quantization: All You Need to Know!** | TechBeats Live Stream | [Link](https://cloudthrill.ca/llm-quantization-all-you-need-to-know)✍🏻 <br> [Link](https://youtube.com/live/XTE0oS7b6fM?feature=share)📺|
-| **Explore OCI DevOps: Pipeline your Terraform Stack from GitHub to OCI** | All India Oracle Users Group (AIOUG) | [Link](https://www.aioug.org/events/explore-oci-devops-pipeline-your-terraform-stack-from-github-to-oci)📺|
+| **Compliance as Code using Checkov in Terraform** | Hashitalks Secure 2024 | [Link](https://youtu.be/7UMCpGq15yE?feature=shared) 📺 |
 
 
 ## **Udemy Discount Coupons**
